@@ -10,37 +10,29 @@ class CLSpider(Spider):
 	name = "scrapyc"
 	download_delay = 2
 	allowed_domains = ["craigslist.org"]
-	start_urls = []
+	start_urls = ["http://washingtondc.craigslist.org/nva/cto/4844190688.html"]
 
-	def __init__(self):
-		for location in locations:
-			# This will produce a list of [origin, dest], so grab those and use them
-			# as falues for pluggin in to the url_pattern
-			self.start_urls.append(url_pattern.format(origin=location[0],
-					                             dest=location[1], day=readday,
-					                             month=readmonth, year=readyear))
-			# All done, start_urls now is what was before, but adding a new
-			# dest/origin won't be tedious and changing global URL parameters is
-			# done in the url_pattern
+#	def __init__(self):
+	
 
 	def parse(self, response):
 		sel = Selector(response)
-		sites = sel.xpath('//ul[@class="journey standard none"]|//ul[@class="journey standard seat"]')
+		sites = sel.xpath('//body[@class="posting en desktop"]')
 		items = []
 		for site in sites:
 			item = CLItem()
-			item['title'] = map(unicode.strip, site.xpath('.//li[@class="two"]/p[1]/text()[3]').extract())
-			item['price'] = map(unicode.strip, site.xpath('.//li[@class="two"]/p[1]/text()[5]').extract())
-			item['location'] = map(unicode.strip, site.xpath('.//li[@class="two"]/p[1]/text()[2][normalize-space()]').extract())
-			item['postdate'] = map(unicode.strip, site.xpath('.//p[@class="arrive"]/text()[3]').extract())
-			item['odometer'] = map(unicode.strip, site.xpath('.//p[@class="arrive"]/text()[5]').extract())
-			item['color'] = map(unicode.strip, site.xpath('.//p[@class="arrive"]/text()[2]').extract())
-			item['transmission'] = map(unicode.strip, site.xpath('.//li[@class="three"]/p/text()').extract())
-			item['title'] = map(unicode.strip, site.xpath('.//li[@class="five"]/p/text()[normalize-space()]').extract())
-			item['cylinders'] = str(datetime.datetime.now().time())
-			item['drive'] = map(unicode.strip, site.xpath('.//li[@class="three"]/p/text()').extract())
-			item['fuel'] = map(unicode.strip, site.xpath('.//li[@class="five"]/p/text()[normalize-space()]').extract())
-			item['type'] = str(datetime.datetime.now().time())
+			item['title'] = map(unicode.strip, site.xpath('.//h2[@class="postingtitle"]/text()').extract())
+			item['price'] = map(unicode.strip, site.xpath('.//h2[@class="postingtitle"]/text()').extract())
+			item['location'] = map(unicode.strip, site.xpath('.//h2[@class="postingtitle"]/text()').extract())
+			item['postdate'] = map(unicode.strip, site.xpath('.//p[@class="postinginfo"]/text()').extract())
+			item['odometer'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[1]').extract())
+			item['color'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[2]').extract())
+			item['transmission'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[3]').extract())
+			item['title'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[4]').extract())
+			item['cylinders'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[5]').extract())
+			item['drive'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[6]').extract())
+			item['fuel'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[7]').extract())
+			item['type'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[8]').extract())
 			item['datescraped'] = str(datetime.datetime.now().date())
 			item['urlscraped'] = str(response.url)
 			items.append(item)

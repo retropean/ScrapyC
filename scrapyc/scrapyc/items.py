@@ -15,4 +15,4 @@ class CLItem(Item):
 	type = Field()
 	datescraped = Field()
 	urlscraped = Field()	
-    pass
+pass
