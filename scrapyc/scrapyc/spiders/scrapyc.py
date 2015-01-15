@@ -33,6 +33,8 @@ class CLSpider(Spider):
 			item['drive'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[6]').extract())
 			item['fuel'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[7]').extract())
 			item['type'] = map(unicode.strip, site.xpath('.//p[@class="attrgtoup"]/text()[8]').extract())
+#			item['postid'] = 
+#			item['updatedate'] = 
 			item['datescraped'] = str(datetime.datetime.now().date())
 			item['urlscraped'] = str(response.url)
 			items.append(item)

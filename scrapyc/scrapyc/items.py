@@ -14,5 +14,7 @@ class CLItem(Item):
 	fuel = Field()
 	type = Field()
 	datescraped = Field()
-	urlscraped = Field()	
+	urlscraped = Field()
+	postid = Field()
+	updatedate = Field()
 pass
