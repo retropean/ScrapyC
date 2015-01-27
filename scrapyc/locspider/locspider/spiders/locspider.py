@@ -27,8 +27,8 @@ class LocSpider(Spider):
 		for site in sites:
 			item = LocspiderItem()
 			item['continent'] = map(unicode.strip, site.xpath('../../../../h1[last()]/text()').extract())
-			item['state'] = map(unicode.strip, site.xpath('../../h4[1]/text()').extract())
-#			item['state'] = map(unicode.strip, site.xpath('h4/text()[preceding-sibling:://ul').extract())
+#			item['state'] = map(unicode.strip, site.xpath('../../h4[1]/text()').extract())
+			item['state'] = map(unicode.strip, site.xpath('h4/text()[preceding-sibling::../../text()]').extract())
 			item['city'] = map(unicode.strip, site.xpath('.//text()').extract())
 			item['domain'] = map(unicode.strip, site.xpath('.//@href').extract())
 			items.append(item)
