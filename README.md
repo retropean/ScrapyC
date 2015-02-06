@@ -1,2 +1,2 @@
 # ScrapyC
-Unleash the power of Scrapy on Craig
+Some junk to eventually merge with https://github.com/team-pomelo/findon-cl-worker
