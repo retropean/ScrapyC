@@ -27,13 +27,21 @@ class LocSpider(Spider):
 		co = 1
 		st = 1
 		ci = 1
-		
 		for site in sites:
-		
-			#for co in sel.xpath('.//h1/'):
-			while map(unicode.strip, site.xpath('.//h1[{i}]/text()'.format(i = co)).extract()) != map(unicode.strip, site.xpath('.//h1[last()]/text()').extract()):
+			while map(unicode.strip, site.xpath('//ul[{f}]/li[{j}]/a/text()'.format(j=ci, f=st)).extract()) != map(unicode.strip, site.xpath('//ul[last()]/li[last()]/a/text()'.format(f=st)).extract()):
+				while map(unicode.strip, site.xpath('//ul[{f}]/li[{j}]/a/text()'.format(j=ci, f=st)).extract()) != map(unicode.strip, site.xpath('//ul[{f}]/li[last()]/a/text()'.format(f=st)).extract()):
+					item = LocspiderItem()
+					item['city'] = map(unicode.strip, site.xpath('//ul[{f}]/li[{j}]/a/text()'.format(j=ci, f=st)).extract())
+					item['domain'] = map(unicode.strip, site.xpath('//ul[{f}]/li[{j}]/a/@href'.format(j=ci, f=st)).extract())
+					ci+=1
+					items.append(item)
+				st+=1
+		return items
+				
+
+'''		while map(unicode.strip, site.xpath('.//h1[{i}]/text()'.format(i = co)).extract()) != map(unicode.strip, site.xpath('.//h1[last()]/text()').extract()):
 				while map(unicode.strip, site.xpath('.//h4[{i}]/text()'.format(i = st)).extract()) != map(unicode.strip, site.xpath('.//h4[last()]/text()').extract()):
-					while map(unicode.strip, site.xpath('//li[{j}]/a/text()'.format(j = ci)).extract()) != map(unicode.strip, site.xpath('//li[last()]/a/text()').extract()):
+					while map(unicode.strip, site.xpath('//ul/li[{j}]/a/text()'.format(j = st)).extract()) != map(unicode.strip, site.xpath('//ul[last()]/li/a/text()').extract()):
 						item = LocspiderItem()	
 						print map(unicode.strip, site.xpath('//li[{j}]/a/text()'.format(j = ci)).extract())
 						item['continent'] = map(unicode.strip, site.xpath('.//h1[{i}]/text()'.format(i = co)).extract())
@@ -45,6 +53,7 @@ class LocSpider(Spider):
 					st=st+1
 				co+=1
 		return items
+
 #					items.append(item)
 #			print 'hello'
 #			print co
@@ -54,7 +63,7 @@ class LocSpider(Spider):
 			
 		#return items
 			
-'''		for site in sites:
+		for site in sites:
 			item = LocspiderItem()
 			item['continent'] = map(unicode.strip, site.xpath('../../../../h1[last()]/text()').extract())
 #			item['state'] = map(unicode.strip, site.xpath('../../h4[1]/text()').extract())
