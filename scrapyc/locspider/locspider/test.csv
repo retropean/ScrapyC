@@ -423,3 +423,796 @@ guam-micronesia,http://micronesia.craigslist.org,US,Territories
 puerto rico,http://puertorico.craigslist.org,US,Territories
 U.S. virgin islands,http://virgin.craigslist.org,US,Territories
 ,,US,Territories
+calgary,http://calgary.craigslist.ca,Canada,Alberta
+edmonton,http://edmonton.craigslist.ca,Canada,Alberta
+ft mcmurray,http://ftmcmurray.craigslist.ca,Canada,Alberta
+lethbridge,http://lethbridge.craigslist.ca,Canada,Alberta
+medicine hat,http://hat.craigslist.ca,Canada,Alberta
+peace river country,http://peace.craigslist.ca,Canada,Alberta
+red deer,http://reddeer.craigslist.ca,Canada,Alberta
+,,Canada,Alberta
+,,Canada,Alberta
+cariboo,http://cariboo.craigslist.ca,Canada,British Columbia
+comox valley,http://comoxvalley.craigslist.ca,Canada,British Columbia
+fraser valley,http://abbotsford.craigslist.ca,Canada,British Columbia
+kamloops,http://kamloops.craigslist.ca,Canada,British Columbia
+winnipeg,http://winnipeg.craigslist.ca,Canada,Manitoba
+,,Canada,Manitoba
+,,Canada,Manitoba
+,,Canada,Manitoba
+,,Canada,Manitoba
+,,Canada,Manitoba
+,,Canada,Manitoba
+,,Canada,Manitoba
+,,Canada,Manitoba
+new brunswick,http://newbrunswick.craigslist.ca,Canada,New Brunswick
+,,Canada,New Brunswick
+,,Canada,New Brunswick
+,,Canada,New Brunswick
+st john's,http://newfoundland.craigslist.ca,Canada,Newfoundland and Labrador
+,,Canada,Newfoundland and Labrador
+,,Canada,Newfoundland and Labrador
+,,Canada,Newfoundland and Labrador
+,,Canada,Newfoundland and Labrador
+,,Canada,Newfoundland and Labrador
+,,Canada,Newfoundland and Labrador
+,,Canada,Newfoundland and Labrador
+territories,http://territories.craigslist.ca,Canada,Northwest Territories
+yellowknife,http://yellowknife.craigslist.ca,Canada,Northwest Territories
+,,Canada,Northwest Territories
+,,Canada,Northwest Territories
+,,Canada,Northwest Territories
+halifax,http://halifax.craigslist.ca,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+,,Canada,Nova Scotia
+barrie,http://barrie.craigslist.ca,Canada,Ontario
+belleville,http://belleville.craigslist.ca,Canada,Ontario
+brantford-woodstock,http://brantford.craigslist.ca,Canada,Ontario
+chatham-kent,http://chatham.craigslist.ca,Canada,Ontario
+cornwall,http://cornwall.craigslist.ca,Canada,Ontario
+guelph,http://guelph.craigslist.ca,Canada,Ontario
+hamilton-burlington,http://hamilton.craigslist.ca,Canada,Ontario
+kingston,http://kingston.craigslist.ca,Canada,Ontario
+kitchener-waterloo-cambridge,http://kitchener.craigslist.ca,Canada,Ontario
+prince edward island,http://pei.craigslist.ca,Canada,Prince Edward Island
+,,Canada,Prince Edward Island
+,,Canada,Prince Edward Island
+,,Canada,Prince Edward Island
+,,Canada,Prince Edward Island
+,,Canada,Prince Edward Island
+,,Canada,Prince Edward Island
+,,Canada,Prince Edward Island
+,,Canada,Prince Edward Island
+montreal,http://montreal.craigslist.ca,Canada,Quebec
+quebec city,http://quebec.craigslist.ca,Canada,Quebec
+saguenay,http://saguenay.craigslist.ca,Canada,Quebec
+sherbrooke,http://sherbrooke.craigslist.ca,Canada,Quebec
+regina,http://regina.craigslist.ca,Canada,Saskatchewan
+saskatoon,http://saskatoon.craigslist.ca,Canada,Saskatchewan
+,,Canada,Saskatchewan
+,,Canada,Saskatchewan
+,,Canada,Saskatchewan
+,,Canada,Saskatchewan
+,,Canada,Saskatchewan
+,,Canada,Saskatchewan
+whitehorse,http://whitehorse.craigslist.ca,Canada,Yukon Territory
+,,Canada,Yukon Territory
+,,Canada,Yukon Territory
+,,Canada,Yukon Territory
+,,Canada,Yukon Territory
+vienna,http://vienna.craigslist.at,Europe,Austria
+,,Europe,Austria
+,,Europe,Austria
+,,Europe,Austria
+,,Europe,Austria
+,,Europe,Austria
+,,Europe,Austria
+,,Europe,Austria
+,,Europe,Austria
+belgium,http://brussels.craigslist.org,Europe,Belgium
+,,Europe,Belgium
+,,Europe,Belgium
+,,Europe,Belgium
+bulgaria,http://bulgaria.craigslist.org,Europe,Bulgaria
+,,Europe,Bulgaria
+,,Europe,Bulgaria
+,,Europe,Bulgaria
+,,Europe,Bulgaria
+,,Europe,Bulgaria
+,,Europe,Bulgaria
+,,Europe,Bulgaria
+croatia,http://zagreb.craigslist.org,Europe,Croatia
+,,Europe,Croatia
+,,Europe,Croatia
+,,Europe,Croatia
+,,Europe,Croatia
+prague,http://prague.craigslist.cz,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+,,Europe,Czech Republic
+copenhagen,http://copenhagen.craigslist.org,Europe,Denmark
+,,Europe,Denmark
+,,Europe,Denmark
+,,Europe,Denmark
+,,Europe,Denmark
+,,Europe,Denmark
+,,Europe,Denmark
+,,Europe,Denmark
+finland,http://helsinki.craigslist.fi,Europe,Finland
+,,Europe,Finland
+,,Europe,Finland
+,,Europe,Finland
+bordeaux,http://bordeaux.craigslist.org,Europe,France
+berlin,http://berlin.craigslist.de,Europe,Germany
+bremen,http://bremen.craigslist.de,Europe,Germany
+cologne,http://cologne.craigslist.de,Europe,Germany
+dresden,http://dresden.craigslist.de,Europe,Germany
+dusseldorf,http://dusseldorf.craigslist.de,Europe,Germany
+essen / ruhr,http://essen.craigslist.de,Europe,Germany
+frankfurt,http://frankfurt.craigslist.de,Europe,Germany
+hamburg,http://hamburg.craigslist.de,Europe,Germany
+hannover,http://hannover.craigslist.de,Europe,Germany
+greece,http://athens.craigslist.gr,Europe,Greece
+,,Europe,Greece
+,,Europe,Greece
+,,Europe,Greece
+budapest,http://budapest.craigslist.org,Europe,Hungary
+,,Europe,Hungary
+,,Europe,Hungary
+,,Europe,Hungary
+,,Europe,Hungary
+,,Europe,Hungary
+,,Europe,Hungary
+,,Europe,Hungary
+reykjavik,http://reykjavik.craigslist.org,Europe,Iceland
+,,Europe,Iceland
+,,Europe,Iceland
+,,Europe,Iceland
+,,Europe,Iceland
+dublin,http://dublin.craigslist.org,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+,,Europe,Ireland
+bologna,http://bologna.craigslist.it,Europe,Italy
+florence / tuscany,http://florence.craigslist.it,Europe,Italy
+genoa,http://genoa.craigslist.it,Europe,Italy
+milan,http://milan.craigslist.it,Europe,Italy
+napoli / campania,http://naples.craigslist.it,Europe,Italy
+perugia,http://perugia.craigslist.it,Europe,Italy
+rome,http://rome.craigslist.it,Europe,Italy
+sardinia,http://sardinia.craigslist.it,Europe,Italy
+luxembourg,http://luxembourg.craigslist.org,Europe,Luxembourg
+,,Europe,Luxembourg
+,,Europe,Luxembourg
+,,Europe,Luxembourg
+,,Europe,Luxembourg
+,,Europe,Luxembourg
+,,Europe,Luxembourg
+,,Europe,Luxembourg
+,,Europe,Luxembourg
+amsterdam / randstad,http://amsterdam.craigslist.org,Europe,Netherlands
+,,Europe,Netherlands
+,,Europe,Netherlands
+,,Europe,Netherlands
+norway,http://oslo.craigslist.org,Europe,Norway
+,,Europe,Norway
+,,Europe,Norway
+,,Europe,Norway
+,,Europe,Norway
+,,Europe,Norway
+,,Europe,Norway
+,,Europe,Norway
+poland,http://warsaw.craigslist.pl,Europe,Poland
+,,Europe,Poland
+,,Europe,Poland
+,,Europe,Poland
+,,Europe,Poland
+faro / algarve,http://faro.craigslist.pt,Europe,Portugal
+lisbon,http://lisbon.craigslist.pt,Europe,Portugal
+porto,http://porto.craigslist.pt,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+,,Europe,Portugal
+romania,http://bucharest.craigslist.org,Europe,Romania
+,,Europe,Romania
+,,Europe,Romania
+,,Europe,Romania
+,,Europe,Romania
+,,Europe,Romania
+,,Europe,Romania
+,,Europe,Romania
+moscow,http://moscow.craigslist.org,Europe,Russian Federation
+st petersburg,http://stpetersburg.craigslist.org,Europe,Russian Federation
+,,Europe,Russian Federation
+,,Europe,Russian Federation
+alicante,http://alicante.craigslist.es,Europe,Spain
+sweden,http://stockholm.craigslist.se,Europe,Sweden
+,,Europe,Sweden
+,,Europe,Sweden
+,,Europe,Sweden
+,,Europe,Sweden
+,,Europe,Sweden
+,,Europe,Sweden
+,,Europe,Sweden
+,,Europe,Sweden
+basel,http://basel.craigslist.ch,Europe,Switzerland
+bern,http://bern.craigslist.ch,Europe,Switzerland
+geneva,http://geneva.craigslist.ch,Europe,Switzerland
+lausanne,http://lausanne.craigslist.ch,Europe,Switzerland
+turkey,http://istanbul.craigslist.com.tr,Europe,Turkey
+,,Europe,Turkey
+,,Europe,Turkey
+,,Europe,Turkey
+,,Europe,Turkey
+,,Europe,Turkey
+,,Europe,Turkey
+,,Europe,Turkey
+ukraine,http://ukraine.craigslist.org,Europe,Ukraine
+,,Europe,Ukraine
+,,Europe,Ukraine
+,,Europe,Ukraine
+,,Europe,Ukraine
+aberdeen,http://aberdeen.craigslist.co.uk,Europe,United Kingdom
+bath,http://bath.craigslist.co.uk,Europe,United Kingdom
+belfast,http://belfast.craigslist.co.uk,Europe,United Kingdom
+birmingham / west mids,http://birmingham.craigslist.co.uk,Europe,United Kingdom
+brighton,http://brighton.craigslist.co.uk,Europe,United Kingdom
+bristol,http://bristol.craigslist.co.uk,Europe,United Kingdom
+"cambridge, UK",http://cambridge.craigslist.co.uk,Europe,United Kingdom
+cardiff / wales,http://cardiff.craigslist.co.uk,Europe,United Kingdom
+coventry,http://coventry.craigslist.co.uk,Europe,United Kingdom
+derby,http://derby.craigslist.co.uk,Europe,United Kingdom
+devon & cornwall,http://devon.craigslist.co.uk,Europe,United Kingdom
+dundee,http://dundee.craigslist.co.uk,Europe,United Kingdom
+east anglia,http://norwich.craigslist.co.uk,Europe,United Kingdom
+east midlands,http://eastmids.craigslist.co.uk,Europe,United Kingdom
+edinburgh,http://edinburgh.craigslist.co.uk,Europe,United Kingdom
+essex,http://essex.craigslist.co.uk,Europe,United Kingdom
+glasgow,http://glasgow.craigslist.co.uk,Europe,United Kingdom
+hampshire,http://hampshire.craigslist.co.uk,Europe,United Kingdom
+kent,http://kent.craigslist.co.uk,Europe,United Kingdom
+leeds,http://leeds.craigslist.co.uk,Europe,United Kingdom
+liverpool,http://liverpool.craigslist.co.uk,Europe,United Kingdom
+london,http://london.craigslist.co.uk,Europe,United Kingdom
+manchester,http://manchester.craigslist.co.uk,Europe,United Kingdom
+newcastle / NE england,http://newcastle.craigslist.co.uk,Europe,United Kingdom
+nottingham,http://nottingham.craigslist.co.uk,Europe,United Kingdom
+oxford,http://oxford.craigslist.co.uk,Europe,United Kingdom
+sheffield,http://sheffield.craigslist.co.uk,Europe,United Kingdom
+,,Europe,United Kingdom
+bangladesh,http://bangladesh.craigslist.org,"Asia, Pacific and Middle East",Bangladesh
+,,"Asia, Pacific and Middle East",Bangladesh
+,,"Asia, Pacific and Middle East",Bangladesh
+,,"Asia, Pacific and Middle East",Bangladesh
+,,"Asia, Pacific and Middle East",Bangladesh
+,,"Asia, Pacific and Middle East",Bangladesh
+,,"Asia, Pacific and Middle East",Bangladesh
+,,"Asia, Pacific and Middle East",Bangladesh
+,,"Asia, Pacific and Middle East",Bangladesh
+beijing,http://beijing.craigslist.com.cn,"Asia, Pacific and Middle East",China
+chengdu,http://chengdu.craigslist.com.cn,"Asia, Pacific and Middle East",China
+chongqing,http://chongqing.craigslist.com.cn,"Asia, Pacific and Middle East",China
+dalian,http://dalian.craigslist.com.cn,"Asia, Pacific and Middle East",China
+guam-micronesia,http://micronesia.craigslist.org,"Asia, Pacific and Middle East",Guam / Micronesia
+,,"Asia, Pacific and Middle East",Guam / Micronesia
+,,"Asia, Pacific and Middle East",Guam / Micronesia
+,,"Asia, Pacific and Middle East",Guam / Micronesia
+,,"Asia, Pacific and Middle East",Guam / Micronesia
+,,"Asia, Pacific and Middle East",Guam / Micronesia
+,,"Asia, Pacific and Middle East",Guam / Micronesia
+,,"Asia, Pacific and Middle East",Guam / Micronesia
+hong kong,http://hongkong.craigslist.hk,"Asia, Pacific and Middle East",Hong Kong
+,,"Asia, Pacific and Middle East",Hong Kong
+,,"Asia, Pacific and Middle East",Hong Kong
+,,"Asia, Pacific and Middle East",Hong Kong
+,,"Asia, Pacific and Middle East",Hong Kong
+ahmedabad,http://ahmedabad.craigslist.co.in,"Asia, Pacific and Middle East",India
+bangalore,http://bangalore.craigslist.co.in,"Asia, Pacific and Middle East",India
+bhubaneswar,http://bhubaneswar.craigslist.co.in,"Asia, Pacific and Middle East",India
+chandigarh,http://chandigarh.craigslist.co.in,"Asia, Pacific and Middle East",India
+chennai (madras),http://chennai.craigslist.co.in,"Asia, Pacific and Middle East",India
+delhi,http://delhi.craigslist.co.in,"Asia, Pacific and Middle East",India
+goa,http://goa.craigslist.co.in,"Asia, Pacific and Middle East",India
+hyderabad,http://hyderabad.craigslist.co.in,"Asia, Pacific and Middle East",India
+indore,http://indore.craigslist.co.in,"Asia, Pacific and Middle East",India
+indonesia,http://jakarta.craigslist.org,"Asia, Pacific and Middle East",Indonesia
+,,"Asia, Pacific and Middle East",Indonesia
+,,"Asia, Pacific and Middle East",Indonesia
+,,"Asia, Pacific and Middle East",Indonesia
+iran,http://tehran.craigslist.org,"Asia, Pacific and Middle East",Iran
+,,"Asia, Pacific and Middle East",Iran
+,,"Asia, Pacific and Middle East",Iran
+,,"Asia, Pacific and Middle East",Iran
+,,"Asia, Pacific and Middle East",Iran
+,,"Asia, Pacific and Middle East",Iran
+,,"Asia, Pacific and Middle East",Iran
+,,"Asia, Pacific and Middle East",Iran
+iraq,http://baghdad.craigslist.org,"Asia, Pacific and Middle East",Iraq
+,,"Asia, Pacific and Middle East",Iraq
+,,"Asia, Pacific and Middle East",Iraq
+,,"Asia, Pacific and Middle East",Iraq
+,,"Asia, Pacific and Middle East",Iraq
+haifa,http://haifa.craigslist.org,"Asia, Pacific and Middle East",Israel and Palestine
+jerusalem,http://jerusalem.craigslist.org,"Asia, Pacific and Middle East",Israel and Palestine
+tel aviv,http://telaviv.craigslist.org,"Asia, Pacific and Middle East",Israel and Palestine
+west bank,http://ramallah.craigslist.org,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+,,"Asia, Pacific and Middle East",Israel and Palestine
+fukuoka,http://fukuoka.craigslist.jp,"Asia, Pacific and Middle East",Japan
+hiroshima,http://hiroshima.craigslist.jp,"Asia, Pacific and Middle East",Japan
+nagoya,http://nagoya.craigslist.jp,"Asia, Pacific and Middle East",Japan
+okinawa,http://okinawa.craigslist.jp,"Asia, Pacific and Middle East",Japan
+osaka-kobe-kyoto,http://osaka.craigslist.jp,"Asia, Pacific and Middle East",Japan
+sapporo,http://sapporo.craigslist.jp,"Asia, Pacific and Middle East",Japan
+sendai,http://sendai.craigslist.jp,"Asia, Pacific and Middle East",Japan
+tokyo,http://tokyo.craigslist.jp,"Asia, Pacific and Middle East",Japan
+,,"Asia, Pacific and Middle East",Japan
+seoul,http://seoul.craigslist.co.kr,"Asia, Pacific and Middle East",Korea
+,,"Asia, Pacific and Middle East",Korea
+,,"Asia, Pacific and Middle East",Korea
+,,"Asia, Pacific and Middle East",Korea
+kuwait,http://kuwait.craigslist.org,"Asia, Pacific and Middle East",Kuwait
+,,"Asia, Pacific and Middle East",Kuwait
+,,"Asia, Pacific and Middle East",Kuwait
+,,"Asia, Pacific and Middle East",Kuwait
+,,"Asia, Pacific and Middle East",Kuwait
+,,"Asia, Pacific and Middle East",Kuwait
+,,"Asia, Pacific and Middle East",Kuwait
+,,"Asia, Pacific and Middle East",Kuwait
+"beirut, lebanon",http://beirut.craigslist.org,"Asia, Pacific and Middle East",Lebanon
+,,"Asia, Pacific and Middle East",Lebanon
+,,"Asia, Pacific and Middle East",Lebanon
+,,"Asia, Pacific and Middle East",Lebanon
+,,"Asia, Pacific and Middle East",Lebanon
+malaysia,http://malaysia.craigslist.org,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+,,"Asia, Pacific and Middle East",Malaysia
+pakistan,http://pakistan.craigslist.org,"Asia, Pacific and Middle East",Pakistan
+,,"Asia, Pacific and Middle East",Pakistan
+,,"Asia, Pacific and Middle East",Pakistan
+,,"Asia, Pacific and Middle East",Pakistan
+,,"Asia, Pacific and Middle East",Pakistan
+,,"Asia, Pacific and Middle East",Pakistan
+,,"Asia, Pacific and Middle East",Pakistan
+,,"Asia, Pacific and Middle East",Pakistan
+bacolod,http://bacolod.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+bicol region,http://naga.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+cagayan de oro,http://cdo.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+cebu,http://cebu.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+davao city,http://davaocity.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+iloilo,http://iloilo.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+manila,http://manila.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+pampanga,http://pampanga.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+zamboanga,http://zamboanga.craigslist.com.ph,"Asia, Pacific and Middle East",Philippines
+singapore,http://singapore.craigslist.com.sg,"Asia, Pacific and Middle East",Singapore
+,,"Asia, Pacific and Middle East",Singapore
+,,"Asia, Pacific and Middle East",Singapore
+,,"Asia, Pacific and Middle East",Singapore
+taiwan,http://taipei.craigslist.com.tw,"Asia, Pacific and Middle East",Taiwan
+,,"Asia, Pacific and Middle East",Taiwan
+,,"Asia, Pacific and Middle East",Taiwan
+,,"Asia, Pacific and Middle East",Taiwan
+,,"Asia, Pacific and Middle East",Taiwan
+,,"Asia, Pacific and Middle East",Taiwan
+,,"Asia, Pacific and Middle East",Taiwan
+,,"Asia, Pacific and Middle East",Taiwan
+thailand,http://bangkok.craigslist.co.th,"Asia, Pacific and Middle East",Thailand
+,,"Asia, Pacific and Middle East",Thailand
+,,"Asia, Pacific and Middle East",Thailand
+,,"Asia, Pacific and Middle East",Thailand
+,,"Asia, Pacific and Middle East",Thailand
+united arab emirates,http://dubai.craigslist.org,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+,,"Asia, Pacific and Middle East",United Arab Emirates
+vietnam,http://vietnam.craigslist.org,"Asia, Pacific and Middle East",Vietnam
+,,"Asia, Pacific and Middle East",Vietnam
+,,"Asia, Pacific and Middle East",Vietnam
+,,"Asia, Pacific and Middle East",Vietnam
+,,"Asia, Pacific and Middle East",Vietnam
+,,"Asia, Pacific and Middle East",Vietnam
+,,"Asia, Pacific and Middle East",Vietnam
+,,"Asia, Pacific and Middle East",Vietnam
+adelaide,http://adelaide.craigslist.com.au,Oceania,Australia
+brisbane,http://brisbane.craigslist.com.au,Oceania,Australia
+cairns,http://cairns.craigslist.com.au,Oceania,Australia
+canberra,http://canberra.craigslist.com.au,Oceania,Australia
+darwin,http://darwin.craigslist.com.au,Oceania,Australia
+gold coast,http://goldcoast.craigslist.com.au,Oceania,Australia
+melbourne,http://melbourne.craigslist.com.au,Oceania,Australia
+"newcastle, NSW",http://ntl.craigslist.com.au,Oceania,Australia
+perth,http://perth.craigslist.com.au,Oceania,Australia
+auckland,http://auckland.craigslist.org,Oceania,New Zealand
+christchurch,http://christchurch.craigslist.org,Oceania,New Zealand
+dunedin,http://dunedin.craigslist.co.nz,Oceania,New Zealand
+wellington,http://wellington.craigslist.org,Oceania,New Zealand
+,,Oceania,New Zealand
+,,Oceania,New Zealand
+,,Oceania,New Zealand
+,,Oceania,New Zealand
+,,Oceania,New Zealand
+buenos aires,http://buenosaires.craigslist.org,Latin America and Caribbean,Argentina
+,,Latin America and Caribbean,Argentina
+,,Latin America and Caribbean,Argentina
+,,Latin America and Caribbean,Argentina
+,,Latin America and Caribbean,Argentina
+,,Latin America and Caribbean,Argentina
+,,Latin America and Caribbean,Argentina
+,,Latin America and Caribbean,Argentina
+,,Latin America and Caribbean,Argentina
+bolivia,http://lapaz.craigslist.org,Latin America and Caribbean,Bolivia
+,,Latin America and Caribbean,Bolivia
+,,Latin America and Caribbean,Bolivia
+,,Latin America and Caribbean,Bolivia
+belo horizonte,http://belohorizonte.craigslist.org,Latin America and Caribbean,Brazil
+brasilia,http://brasilia.craigslist.org,Latin America and Caribbean,Brazil
+curitiba,http://curitiba.craigslist.org,Latin America and Caribbean,Brazil
+fortaleza,http://fortaleza.craigslist.org,Latin America and Caribbean,Brazil
+porto alegre,http://portoalegre.craigslist.org,Latin America and Caribbean,Brazil
+recife,http://recife.craigslist.org,Latin America and Caribbean,Brazil
+rio de janeiro,http://rio.craigslist.org,Latin America and Caribbean,Brazil
+"salvador, bahia",http://salvador.craigslist.org,Latin America and Caribbean,Brazil
+caribbean islands,http://caribbean.craigslist.org,Latin America and Caribbean,Caribbean Islands
+,,Latin America and Caribbean,Caribbean Islands
+,,Latin America and Caribbean,Caribbean Islands
+,,Latin America and Caribbean,Caribbean Islands
+,,Latin America and Caribbean,Caribbean Islands
+chile,http://santiago.craigslist.org,Latin America and Caribbean,Chile
+,,Latin America and Caribbean,Chile
+,,Latin America and Caribbean,Chile
+,,Latin America and Caribbean,Chile
+,,Latin America and Caribbean,Chile
+,,Latin America and Caribbean,Chile
+,,Latin America and Caribbean,Chile
+,,Latin America and Caribbean,Chile
+,,Latin America and Caribbean,Chile
+colombia,http://colombia.craigslist.org,Latin America and Caribbean,Colombia
+,,Latin America and Caribbean,Colombia
+,,Latin America and Caribbean,Colombia
+,,Latin America and Caribbean,Colombia
+costa rica,http://costarica.craigslist.org,Latin America and Caribbean,Costa Rica
+,,Latin America and Caribbean,Costa Rica
+,,Latin America and Caribbean,Costa Rica
+,,Latin America and Caribbean,Costa Rica
+,,Latin America and Caribbean,Costa Rica
+,,Latin America and Caribbean,Costa Rica
+,,Latin America and Caribbean,Costa Rica
+,,Latin America and Caribbean,Costa Rica
+dominican republic,http://santodomingo.craigslist.org,Latin America and Caribbean,Dominican Republic
+,,Latin America and Caribbean,Dominican Republic
+,,Latin America and Caribbean,Dominican Republic
+,,Latin America and Caribbean,Dominican Republic
+,,Latin America and Caribbean,Dominican Republic
+ecuador,http://quito.craigslist.org,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+,,Latin America and Caribbean,Ecuador
+el salvador,http://elsalvador.craigslist.org,Latin America and Caribbean,El Salvador
+,,Latin America and Caribbean,El Salvador
+,,Latin America and Caribbean,El Salvador
+,,Latin America and Caribbean,El Salvador
+,,Latin America and Caribbean,El Salvador
+,,Latin America and Caribbean,El Salvador
+,,Latin America and Caribbean,El Salvador
+,,Latin America and Caribbean,El Salvador
+guatemala,http://guatemala.craigslist.org,Latin America and Caribbean,Guatemala
+,,Latin America and Caribbean,Guatemala
+,,Latin America and Caribbean,Guatemala
+,,Latin America and Caribbean,Guatemala
+,,Latin America and Caribbean,Guatemala
+,,Latin America and Caribbean,Guatemala
+,,Latin America and Caribbean,Guatemala
+,,Latin America and Caribbean,Guatemala
+,,Latin America and Caribbean,Guatemala
+acapulco,http://acapulco.craigslist.com.mx,Latin America and Caribbean,Mexico
+baja california sur,http://bajasur.craigslist.com.mx,Latin America and Caribbean,Mexico
+chihuahua,http://chihuahua.craigslist.com.mx,Latin America and Caribbean,Mexico
+ciudad juarez,http://juarez.craigslist.com.mx,Latin America and Caribbean,Mexico
+nicaragua,http://managua.craigslist.org,Latin America and Caribbean,Nicaragua
+,,Latin America and Caribbean,Nicaragua
+,,Latin America and Caribbean,Nicaragua
+,,Latin America and Caribbean,Nicaragua
+,,Latin America and Caribbean,Nicaragua
+,,Latin America and Caribbean,Nicaragua
+,,Latin America and Caribbean,Nicaragua
+,,Latin America and Caribbean,Nicaragua
+panama,http://panama.craigslist.org,Latin America and Caribbean,Panama
+,,Latin America and Caribbean,Panama
+,,Latin America and Caribbean,Panama
+,,Latin America and Caribbean,Panama
+,,Latin America and Caribbean,Panama
+,,Latin America and Caribbean,Panama
+,,Latin America and Caribbean,Panama
+,,Latin America and Caribbean,Panama
+,,Latin America and Caribbean,Panama
+peru,http://lima.craigslist.org,Latin America and Caribbean,Peru
+,,Latin America and Caribbean,Peru
+,,Latin America and Caribbean,Peru
+,,Latin America and Caribbean,Peru
+puerto rico,http://puertorico.craigslist.org,Latin America and Caribbean,Puerto Rico
+,,Latin America and Caribbean,Puerto Rico
+,,Latin America and Caribbean,Puerto Rico
+,,Latin America and Caribbean,Puerto Rico
+,,Latin America and Caribbean,Puerto Rico
+,,Latin America and Caribbean,Puerto Rico
+,,Latin America and Caribbean,Puerto Rico
+,,Latin America and Caribbean,Puerto Rico
+montevideo,http://montevideo.craigslist.org,Latin America and Caribbean,Uruguay
+,,Latin America and Caribbean,Uruguay
+,,Latin America and Caribbean,Uruguay
+,,Latin America and Caribbean,Uruguay
+,,Latin America and Caribbean,Uruguay
+venezuela,http://caracas.craigslist.org,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+,,Latin America and Caribbean,Venezuela
+virgin islands,http://virgin.craigslist.org,Latin America and Caribbean,"Virgin Islands, U.S."
+,,Latin America and Caribbean,"Virgin Islands, U.S."
+,,Latin America and Caribbean,"Virgin Islands, U.S."
+,,Latin America and Caribbean,"Virgin Islands, U.S."
+,,Latin America and Caribbean,"Virgin Islands, U.S."
+,,Latin America and Caribbean,"Virgin Islands, U.S."
+,,Latin America and Caribbean,"Virgin Islands, U.S."
+,,Latin America and Caribbean,"Virgin Islands, U.S."
+egypt,http://cairo.craigslist.org,Africa,Egypt
+,,Africa,Egypt
+,,Africa,Egypt
+,,Africa,Egypt
+,,Africa,Egypt
+,,Africa,Egypt
+,,Africa,Egypt
+,,Africa,Egypt
+,,Africa,Egypt
+ethiopia,http://addisababa.craigslist.org,Africa,Ethiopia
+,,Africa,Ethiopia
+,,Africa,Ethiopia
+,,Africa,Ethiopia
+ghana,http://accra.craigslist.org,Africa,Ghana
+,,Africa,Ghana
+,,Africa,Ghana
+,,Africa,Ghana
+,,Africa,Ghana
+,,Africa,Ghana
+,,Africa,Ghana
+,,Africa,Ghana
+,,Africa,Ghana
+kenya,http://kenya.craigslist.org,Africa,Kenya
+,,Africa,Kenya
+,,Africa,Kenya
+,,Africa,Kenya
+morocco,http://casablanca.craigslist.org,Africa,Morocco
+,,Africa,Morocco
+,,Africa,Morocco
+,,Africa,Morocco
+,,Africa,Morocco
+,,Africa,Morocco
+,,Africa,Morocco
+,,Africa,Morocco
+,,Africa,Morocco
+cape town,http://capetown.craigslist.co.za,Africa,South Africa
+durban,http://durban.craigslist.co.za,Africa,South Africa
+johannesburg,http://johannesburg.craigslist.co.za,Africa,South Africa
+pretoria,http://pretoria.craigslist.co.za,Africa,South Africa
+tunisia,http://tunis.craigslist.org,Africa,Tunisia
+,,Africa,Tunisia
+,,Africa,Tunisia
+,,Africa,Tunisia
+,,Africa,Tunisia
+,,Africa,Tunisia
+,,Africa,Tunisia
+,,Africa,Tunisia
+,,Africa,Tunisia
