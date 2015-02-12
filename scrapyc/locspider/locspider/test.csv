@@ -1,0 +1,425 @@
+city,domain,continent,state
+auburn,http://auburn.craigslist.org,US,Alabama
+birmingham,http://bham.craigslist.org,US,Alabama
+dothan,http://dothan.craigslist.org,US,Alabama
+florence / muscle shoals,http://shoals.craigslist.org,US,Alabama
+gadsden-anniston,http://gadsden.craigslist.org,US,Alabama
+huntsville / decatur,http://huntsville.craigslist.org,US,Alabama
+mobile,http://mobile.craigslist.org,US,Alabama
+montgomery,http://montgomery.craigslist.org,US,Alabama
+tuscaloosa,http://tuscaloosa.craigslist.org,US,Alabama
+anchorage / mat-su,http://anchorage.craigslist.org,US,Alaska
+fairbanks,http://fairbanks.craigslist.org,US,Alaska
+kenai peninsula,http://kenai.craigslist.org,US,Alaska
+southeast alaska,http://juneau.craigslist.org,US,Alaska
+flagstaff / sedona,http://flagstaff.craigslist.org,US,Arizona
+mohave county,http://mohave.craigslist.org,US,Arizona
+phoenix,http://phoenix.craigslist.org,US,Arizona
+prescott,http://prescott.craigslist.org,US,Arizona
+show low,http://showlow.craigslist.org,US,Arizona
+sierra vista,http://sierravista.craigslist.org,US,Arizona
+tucson,http://tucson.craigslist.org,US,Arizona
+yuma,http://yuma.craigslist.org,US,Arizona
+fayetteville,http://fayar.craigslist.org,US,Arkansas
+fort smith,http://fortsmith.craigslist.org,US,Arkansas
+jonesboro,http://jonesboro.craigslist.org,US,Arkansas
+little rock,http://littlerock.craigslist.org,US,Arkansas
+texarkana,http://texarkana.craigslist.org,US,Arkansas
+bakersfield,http://bakersfield.craigslist.org,US,California
+chico,http://chico.craigslist.org,US,California
+fresno / madera,http://fresno.craigslist.org,US,California
+gold country,http://goldcountry.craigslist.org,US,California
+hanford-corcoran,http://hanford.craigslist.org,US,California
+humboldt county,http://humboldt.craigslist.org,US,California
+imperial county,http://imperial.craigslist.org,US,California
+inland empire,http://inlandempire.craigslist.org,US,California
+los angeles,http://losangeles.craigslist.org,US,California
+mendocino county,http://mendocino.craigslist.org,US,California
+merced,http://merced.craigslist.org,US,California
+modesto,http://modesto.craigslist.org,US,California
+monterey bay,http://monterey.craigslist.org,US,California
+orange county,http://orangecounty.craigslist.org,US,California
+palm springs,http://palmsprings.craigslist.org,US,California
+redding,http://redding.craigslist.org,US,California
+sacramento,http://sacramento.craigslist.org,US,California
+san diego,http://sandiego.craigslist.org,US,California
+san francisco bay area,http://sfbay.craigslist.org,US,California
+san luis obispo,http://slo.craigslist.org,US,California
+santa barbara,http://santabarbara.craigslist.org,US,California
+santa maria,http://santamaria.craigslist.org,US,California
+siskiyou county,http://siskiyou.craigslist.org,US,California
+stockton,http://stockton.craigslist.org,US,California
+susanville,http://susanville.craigslist.org,US,California
+ventura county,http://ventura.craigslist.org,US,California
+visalia-tulare,http://visalia.craigslist.org,US,California
+yuba-sutter,http://yubasutter.craigslist.org,US,California
+boulder,http://boulder.craigslist.org,US,Colorado
+colorado springs,http://cosprings.craigslist.org,US,Colorado
+denver,http://denver.craigslist.org,US,Colorado
+eastern CO,http://eastco.craigslist.org,US,Colorado
+fort collins / north CO,http://fortcollins.craigslist.org,US,Colorado
+high rockies,http://rockies.craigslist.org,US,Colorado
+pueblo,http://pueblo.craigslist.org,US,Colorado
+western slope,http://westslope.craigslist.org,US,Colorado
+eastern CT,http://newlondon.craigslist.org,US,Connecticut
+hartford,http://hartford.craigslist.org,US,Connecticut
+new haven,http://newhaven.craigslist.org,US,Connecticut
+northwest CT,http://nwct.craigslist.org,US,Connecticut
+delaware,http://delaware.craigslist.org,US,Delaware
+washington,http://washingtondc.craigslist.org,US,District of Columbia
+daytona beach,http://daytona.craigslist.org,US,Florida
+florida keys,http://keys.craigslist.org,US,Florida
+fort lauderdale,http://fortlauderdale.craigslist.org,US,Florida
+ft myers / SW florida,http://fortmyers.craigslist.org,US,Florida
+gainesville,http://gainesville.craigslist.org,US,Florida
+heartland florida,http://cfl.craigslist.org,US,Florida
+jacksonville,http://jacksonville.craigslist.org,US,Florida
+lakeland,http://lakeland.craigslist.org,US,Florida
+north central FL,http://lakecity.craigslist.org,US,Florida
+ocala,http://ocala.craigslist.org,US,Florida
+okaloosa / walton,http://okaloosa.craigslist.org,US,Florida
+orlando,http://orlando.craigslist.org,US,Florida
+panama city,http://panamacity.craigslist.org,US,Florida
+pensacola,http://pensacola.craigslist.org,US,Florida
+sarasota-bradenton,http://sarasota.craigslist.org,US,Florida
+south florida,http://miami.craigslist.org,US,Florida
+space coast,http://spacecoast.craigslist.org,US,Florida
+st augustine,http://staugustine.craigslist.org,US,Florida
+tallahassee,http://tallahassee.craigslist.org,US,Florida
+tampa bay area,http://tampa.craigslist.org,US,Florida
+treasure coast,http://treasure.craigslist.org,US,Florida
+west palm beach,http://westpalmbeach.craigslist.org,US,Florida
+albany,http://albanyga.craigslist.org,US,Georgia
+athens,http://athensga.craigslist.org,US,Georgia
+atlanta,http://atlanta.craigslist.org,US,Georgia
+augusta,http://augusta.craigslist.org,US,Georgia
+brunswick,http://brunswick.craigslist.org,US,Georgia
+columbus,http://columbusga.craigslist.org,US,Georgia
+macon / warner robins,http://macon.craigslist.org,US,Georgia
+northwest GA,http://nwga.craigslist.org,US,Georgia
+savannah / hinesville,http://savannah.craigslist.org,US,Georgia
+statesboro,http://statesboro.craigslist.org,US,Georgia
+valdosta,http://valdosta.craigslist.org,US,Georgia
+hawaii,http://honolulu.craigslist.org,US,Hawaii
+boise,http://boise.craigslist.org,US,Idaho
+east idaho,http://eastidaho.craigslist.org,US,Idaho
+lewiston / clarkston,http://lewiston.craigslist.org,US,Idaho
+twin falls,http://twinfalls.craigslist.org,US,Idaho
+bloomington-normal,http://bn.craigslist.org,US,Illinois
+champaign urbana,http://chambana.craigslist.org,US,Illinois
+chicago,http://chicago.craigslist.org,US,Illinois
+decatur,http://decatur.craigslist.org,US,Illinois
+la salle co,http://lasalle.craigslist.org,US,Illinois
+mattoon-charleston,http://mattoon.craigslist.org,US,Illinois
+peoria,http://peoria.craigslist.org,US,Illinois
+rockford,http://rockford.craigslist.org,US,Illinois
+southern illinois,http://carbondale.craigslist.org,US,Illinois
+bloomington,http://bloomington.craigslist.org,US,Indiana
+evansville,http://evansville.craigslist.org,US,Indiana
+fort wayne,http://fortwayne.craigslist.org,US,Indiana
+indianapolis,http://indianapolis.craigslist.org,US,Indiana
+ames,http://ames.craigslist.org,US,Iowa
+cedar rapids,http://cedarrapids.craigslist.org,US,Iowa
+des moines,http://desmoines.craigslist.org,US,Iowa
+dubuque,http://dubuque.craigslist.org,US,Iowa
+fort dodge,http://fortdodge.craigslist.org,US,Iowa
+iowa city,http://iowacity.craigslist.org,US,Iowa
+mason city,http://masoncity.craigslist.org,US,Iowa
+quad cities,http://quadcities.craigslist.org,US,Iowa
+lawrence,http://lawrence.craigslist.org,US,Kansas
+manhattan,http://ksu.craigslist.org,US,Kansas
+northwest KS,http://nwks.craigslist.org,US,Kansas
+salina,http://salina.craigslist.org,US,Kansas
+southeast KS,http://seks.craigslist.org,US,Kansas
+bowling green,http://bgky.craigslist.org,US,Kentucky
+eastern kentucky,http://eastky.craigslist.org,US,Kentucky
+lexington,http://lexington.craigslist.org,US,Kentucky
+louisville,http://louisville.craigslist.org,US,Kentucky
+owensboro,http://owensboro.craigslist.org,US,Kentucky
+western KY,http://westky.craigslist.org,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+,,US,Kentucky
+baton rouge,http://batonrouge.craigslist.org,US,Louisiana
+central louisiana,http://cenla.craigslist.org,US,Louisiana
+houma,http://houma.craigslist.org,US,Louisiana
+lafayette,http://lafayette.craigslist.org,US,Louisiana
+lake charles,http://lakecharles.craigslist.org,US,Louisiana
+monroe,http://monroe.craigslist.org,US,Louisiana
+new orleans,http://neworleans.craigslist.org,US,Louisiana
+shreveport,http://shreveport.craigslist.org,US,Louisiana
+maine,http://maine.craigslist.org,US,Maine
+,,US,Maine
+,,US,Maine
+,,US,Maine
+annapolis,http://annapolis.craigslist.org,US,Maryland
+boston,http://boston.craigslist.org,US,Massachusetts
+ann arbor,http://annarbor.craigslist.org,US,Michigan
+battle creek,http://battlecreek.craigslist.org,US,Michigan
+central michigan,http://centralmich.craigslist.org,US,Michigan
+detroit metro,http://detroit.craigslist.org,US,Michigan
+flint,http://flint.craigslist.org,US,Michigan
+grand rapids,http://grandrapids.craigslist.org,US,Michigan
+holland,http://holland.craigslist.org,US,Michigan
+jackson,http://jxn.craigslist.org,US,Michigan
+kalamazoo,http://kalamazoo.craigslist.org,US,Michigan
+lansing,http://lansing.craigslist.org,US,Michigan
+monroe,http://monroemi.craigslist.org,US,Michigan
+muskegon,http://muskegon.craigslist.org,US,Michigan
+northern michigan,http://nmi.craigslist.org,US,Michigan
+port huron,http://porthuron.craigslist.org,US,Michigan
+saginaw-midland-baycity,http://saginaw.craigslist.org,US,Michigan
+southwest michigan,http://swmi.craigslist.org,US,Michigan
+the thumb,http://thumb.craigslist.org,US,Michigan
+upper peninsula,http://up.craigslist.org,US,Michigan
+,,US,Michigan
+,,US,Michigan
+,,US,Michigan
+,,US,Michigan
+bemidji,http://bemidji.craigslist.org,US,Minnesota
+brainerd,http://brainerd.craigslist.org,US,Minnesota
+duluth / superior,http://duluth.craigslist.org,US,Minnesota
+mankato,http://mankato.craigslist.org,US,Minnesota
+minneapolis / st paul,http://minneapolis.craigslist.org,US,Minnesota
+rochester,http://rmn.craigslist.org,US,Minnesota
+southwest MN,http://marshall.craigslist.org,US,Minnesota
+st cloud,http://stcloud.craigslist.org,US,Minnesota
+,,US,Minnesota
+,,US,Minnesota
+,,US,Minnesota
+gulfport / biloxi,http://gulfport.craigslist.org,US,Mississippi
+columbia / jeff city,http://columbiamo.craigslist.org,US,Missouri
+joplin,http://joplin.craigslist.org,US,Missouri
+kansas city,http://kansascity.craigslist.org,US,Missouri
+kirksville,http://kirksville.craigslist.org,US,Missouri
+billings,http://billings.craigslist.org,US,Montana
+bozeman,http://bozeman.craigslist.org,US,Montana
+butte,http://butte.craigslist.org,US,Montana
+great falls,http://greatfalls.craigslist.org,US,Montana
+helena,http://helena.craigslist.org,US,Montana
+kalispell,http://kalispell.craigslist.org,US,Montana
+missoula,http://missoula.craigslist.org,US,Montana
+eastern montana,http://montana.craigslist.org,US,Montana
+,,US,Montana
+grand island,http://grandisland.craigslist.org,US,Nebraska
+lincoln,http://lincoln.craigslist.org,US,Nebraska
+north platte,http://northplatte.craigslist.org,US,Nebraska
+omaha / council bluffs,http://omaha.craigslist.org,US,Nebraska
+elko,http://elko.craigslist.org,US,Nevada
+las vegas,http://lasvegas.craigslist.org,US,Nevada
+reno / tahoe,http://reno.craigslist.org,US,Nevada
+,,US,Nevada
+,,US,Nevada
+,,US,Nevada
+,,US,Nevada
+,,US,Nevada
+new hampshire,http://nh.craigslist.org,US,New Hampshire
+,,US,New Hampshire
+,,US,New Hampshire
+,,US,New Hampshire
+,,US,New Hampshire
+central NJ,http://cnj.craigslist.org,US,New Jersey
+jersey shore,http://jerseyshore.craigslist.org,US,New Jersey
+north jersey,http://newjersey.craigslist.org,US,New Jersey
+south jersey,http://southjersey.craigslist.org,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+,,US,New Jersey
+albuquerque,http://albuquerque.craigslist.org,US,New Mexico
+clovis / portales,http://clovis.craigslist.org,US,New Mexico
+farmington,http://farmington.craigslist.org,US,New Mexico
+las cruces,http://lascruces.craigslist.org,US,New Mexico
+roswell / carlsbad,http://roswell.craigslist.org,US,New Mexico
+santa fe / taos,http://santafe.craigslist.org,US,New Mexico
+,,US,New Mexico
+,,US,New Mexico
+albany,http://albany.craigslist.org,US,New York
+binghamton,http://binghamton.craigslist.org,US,New York
+buffalo,http://buffalo.craigslist.org,US,New York
+catskills,http://catskills.craigslist.org,US,New York
+asheville,http://asheville.craigslist.org,US,North Carolina
+bismarck,http://bismarck.craigslist.org,US,North Dakota
+akron / canton,http://akroncanton.craigslist.org,US,Ohio
+ashtabula,http://ashtabula.craigslist.org,US,Ohio
+athens,http://athensohio.craigslist.org,US,Ohio
+chillicothe,http://chillicothe.craigslist.org,US,Ohio
+cincinnati,http://cincinnati.craigslist.org,US,Ohio
+cleveland,http://cleveland.craigslist.org,US,Ohio
+columbus,http://columbus.craigslist.org,US,Ohio
+dayton / springfield,http://dayton.craigslist.org,US,Ohio
+lima / findlay,http://limaohio.craigslist.org,US,Ohio
+mansfield,http://mansfield.craigslist.org,US,Ohio
+sandusky,http://sandusky.craigslist.org,US,Ohio
+toledo,http://toledo.craigslist.org,US,Ohio
+tuscarawas co,http://tuscarawas.craigslist.org,US,Ohio
+youngstown,http://youngstown.craigslist.org,US,Ohio
+zanesville / cambridge,http://zanesville.craigslist.org,US,Ohio
+,,US,Ohio
+,,US,Ohio
+,,US,Ohio
+,,US,Ohio
+,,US,Ohio
+,,US,Ohio
+,,US,Ohio
+lawton,http://lawton.craigslist.org,US,Oklahoma
+northwest OK,http://enid.craigslist.org,US,Oklahoma
+oklahoma city,http://oklahomacity.craigslist.org,US,Oklahoma
+stillwater,http://stillwater.craigslist.org,US,Oklahoma
+tulsa,http://tulsa.craigslist.org,US,Oklahoma
+,,US,Oklahoma
+,,US,Oklahoma
+,,US,Oklahoma
+,,US,Oklahoma
+,,US,Oklahoma
+,,US,Oklahoma
+bend,http://bend.craigslist.org,US,Oregon
+altoona-johnstown,http://altoona.craigslist.org,US,Pennsylvania
+cumberland valley,http://chambersburg.craigslist.org,US,Pennsylvania
+erie,http://erie.craigslist.org,US,Pennsylvania
+harrisburg,http://harrisburg.craigslist.org,US,Pennsylvania
+rhode island,http://providence.craigslist.org,US,Rhode Island
+,,US,Rhode Island
+,,US,Rhode Island
+,,US,Rhode Island
+,,US,Rhode Island
+,,US,Rhode Island
+,,US,Rhode Island
+,,US,Rhode Island
+,,US,Rhode Island
+charleston,http://charleston.craigslist.org,US,South Carolina
+columbia,http://columbia.craigslist.org,US,South Carolina
+florence,http://florencesc.craigslist.org,US,South Carolina
+greenville / upstate,http://greenville.craigslist.org,US,South Carolina
+northeast SD,http://nesd.craigslist.org,US,South Dakota
+pierre / central SD,http://csd.craigslist.org,US,South Dakota
+rapid city / west SD,http://rapidcity.craigslist.org,US,South Dakota
+sioux falls / SE SD,http://siouxfalls.craigslist.org,US,South Dakota
+south dakota,http://sd.craigslist.org,US,South Dakota
+,,US,South Dakota
+,,US,South Dakota
+,,US,South Dakota
+chattanooga,http://chattanooga.craigslist.org,US,Tennessee
+clarksville,http://clarksville.craigslist.org,US,Tennessee
+cookeville,http://cookeville.craigslist.org,US,Tennessee
+jackson,http://jacksontn.craigslist.org,US,Tennessee
+knoxville,http://knoxville.craigslist.org,US,Tennessee
+abilene,http://abilene.craigslist.org,US,Texas
+amarillo,http://amarillo.craigslist.org,US,Texas
+austin,http://austin.craigslist.org,US,Texas
+beaumont / port arthur,http://beaumont.craigslist.org,US,Texas
+brownsville,http://brownsville.craigslist.org,US,Texas
+college station,http://collegestation.craigslist.org,US,Texas
+corpus christi,http://corpuschristi.craigslist.org,US,Texas
+dallas / fort worth,http://dallas.craigslist.org,US,Texas
+deep east texas,http://nacogdoches.craigslist.org,US,Texas
+del rio / eagle pass,http://delrio.craigslist.org,US,Texas
+el paso,http://elpaso.craigslist.org,US,Texas
+galveston,http://galveston.craigslist.org,US,Texas
+houston,http://houston.craigslist.org,US,Texas
+killeen / temple / ft hood,http://killeen.craigslist.org,US,Texas
+laredo,http://laredo.craigslist.org,US,Texas
+lubbock,http://lubbock.craigslist.org,US,Texas
+mcallen / edinburg,http://mcallen.craigslist.org,US,Texas
+odessa / midland,http://odessa.craigslist.org,US,Texas
+san angelo,http://sanangelo.craigslist.org,US,Texas
+san antonio,http://sanantonio.craigslist.org,US,Texas
+san marcos,http://sanmarcos.craigslist.org,US,Texas
+southwest TX,http://bigbend.craigslist.org,US,Texas
+texoma,http://texoma.craigslist.org,US,Texas
+tyler / east TX,http://easttexas.craigslist.org,US,Texas
+victoria,http://victoriatx.craigslist.org,US,Texas
+waco,http://waco.craigslist.org,US,Texas
+wichita falls,http://wichitafalls.craigslist.org,US,Texas
+,,US,Texas
+logan,http://logan.craigslist.org,US,Utah
+ogden-clearfield,http://ogden.craigslist.org,US,Utah
+provo / orem,http://provo.craigslist.org,US,Utah
+salt lake city,http://saltlakecity.craigslist.org,US,Utah
+st george,http://stgeorge.craigslist.org,US,Utah
+,,US,Utah
+,,US,Utah
+,,US,Utah
+vermont,http://burlington.craigslist.org,US,Vermont
+,,US,Vermont
+,,US,Vermont
+,,US,Vermont
+charlottesville,http://charlottesville.craigslist.org,US,Virginia
+bellingham,http://bellingham.craigslist.org,US,Washington
+charleston,http://charlestonwv.craigslist.org,US,West Virginia
+eastern panhandle,http://martinsburg.craigslist.org,US,West Virginia
+huntington-ashland,http://huntington.craigslist.org,US,West Virginia
+morgantown,http://morgantown.craigslist.org,US,West Virginia
+northern panhandle,http://wheeling.craigslist.org,US,West Virginia
+parkersburg-marietta,http://parkersburg.craigslist.org,US,West Virginia
+southern WV,http://swv.craigslist.org,US,West Virginia
+west virginia (old),http://wv.craigslist.org,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+,,US,West Virginia
+appleton-oshkosh-FDL,http://appleton.craigslist.org,US,Wisconsin
+eau claire,http://eauclaire.craigslist.org,US,Wisconsin
+green bay,http://greenbay.craigslist.org,US,Wisconsin
+janesville,http://janesville.craigslist.org,US,Wisconsin
+kenosha-racine,http://racine.craigslist.org,US,Wisconsin
+la crosse,http://lacrosse.craigslist.org,US,Wisconsin
+madison,http://madison.craigslist.org,US,Wisconsin
+milwaukee,http://milwaukee.craigslist.org,US,Wisconsin
+northern WI,http://northernwi.craigslist.org,US,Wisconsin
+sheboygan,http://sheboygan.craigslist.org,US,Wisconsin
+wausau,http://wausau.craigslist.org,US,Wisconsin
+wyoming,http://wyoming.craigslist.org,US,Wyoming
+guam-micronesia,http://micronesia.craigslist.org,US,Territories
+puerto rico,http://puertorico.craigslist.org,US,Territories
+U.S. virgin islands,http://virgin.craigslist.org,US,Territories
+,,US,Territories
