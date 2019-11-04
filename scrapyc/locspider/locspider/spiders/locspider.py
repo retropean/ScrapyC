@@ -1,15 +1,18 @@
 from scrapy.spider import Spider
 from scrapy.selector import Selector
 from lxml import html, etree
-from items import LocspiderItem
+from locspider.items import LocspiderItem
 
 import datetime
 import time
+import sys
+if sys.version_info[0] >= 3:
+    unicode = str
 
 class LocSpider(Spider):
 	name = "locspider"
-	allowed_domains = ["http://www.craigslist.org/about/sites"]
-	start_urls = ["http://www.craigslist.org/about/sites"]
+	allowed_domains = ["craigslist.org/about/sites"]
+	start_urls = ["https://www.craigslist.org/about/sites"]
 
 	def __init__(self):
 		Spider.__init__(self)
